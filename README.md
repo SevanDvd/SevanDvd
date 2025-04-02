@@ -1,12 +1,19 @@
 ## 👋 Hey, I'm SevanDvd
 
 🎓 Currently finishing my BUT MMI (Multimedia & Internet Professions) and joining Epitech soon<br>
+
 🔭 Looking for an apprenticeship starting in January 2026 in development<br>
+
 🌱 Currently learning React, database management, and advanced web development<br>
+
 💬 Ask me about web development, UX/UI, and digital strategy<br>
+
 🎸 Passionate about music, especially J-Rock and Worship<br>
+
 🏋️‍♂️ I enjoy working out and staying active<br>
+
 ⚡ Fun fact: I love diving deep into projects but sometimes overthink my goals<br>
+
 📫 Get in touch! Let's talk about web development, tech, or anything interesting!<br>
 
 # 💻 Tech Stack:
