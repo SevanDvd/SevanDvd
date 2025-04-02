@@ -1,4 +1,4 @@
-##👋 Hey, I'm SevanDvd
+## 👋 Hey, I'm SevanDvd
 
 🎓 Currently finishing my BUT MMI (Multimedia & Internet Professions) and joining Epitech soon<br>
 🔭 Looking for an apprenticeship starting in January 2026 in development<br>
